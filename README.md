@@ -2,7 +2,7 @@
 
 使用 Kaggle **Lending Club** 資料集進行貸款違約風險預測與資料分析的專案。  
 這個 repo 主要作為機器學習實作與資料前處理練習，也可做為往後延伸模型實驗的基礎。
-
+Data_Sets :https://www.kaggle.com/datasets/wordsforthewise/lending-club
 ---
 
 ## 目標說明 (Objectives)
